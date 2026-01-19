@@ -1,0 +1,9 @@
+### GET request to get all patients
+#GET http://localhost:4000/patients   ###old api
+GET http://localhost:4004/api/patients
+#request coming from api gateway-->login-->authorization-->patientservice
+Authorization: Bearer {{token}}
+#Authorization: Bearer 23494895798hfrncdxBWQGs3ye8./.mekm3d2hduecjb
+
+
+###
