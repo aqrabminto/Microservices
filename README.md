@@ -110,10 +110,4 @@ patient-management-system
 
 
 
-## 📝 License
-The Patient Management System is licensed under the Apache License 2.0.
 
-
-
-## 💖 Thanks Message
-This is written by [readme.ai](https://readme-generator-phi.vercel.app/) - Your AI-powered README generator.
